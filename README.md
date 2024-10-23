@@ -13,3 +13,6 @@ This project aims to fine-tune a pre-trained BERT model for sentiment analysis, 
 ## Results and Comparisons
 - Include results from the baseline majority classifier and best classifiers from previous exercises for comprehensive comparisons.
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
